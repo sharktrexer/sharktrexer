@@ -23,7 +23,7 @@ Here's some fun facts:
 I graduated from Central Washington University with a Bachelor's of Science in Computer Science. My academia gave me a strong understanding of computer science fundamentals such as Object Oriented Principles, Algorithms, Data Structures, File Processing, Design Principles, and Software Engineering. I also minored in Math and Art, so I have a joy for equations and design on top of general comp sci.
 
 ## Work Experience 💼
-I worked on private repositories at TreeTop Inc during my Summer 2022 Contract. [This](https://github.com/isydock?tab=overview&from=2022-12-01&to=2022-12-31) account contains my contributions info for that period of time.
+I worked on private repositories at TreeTop Inc during my Summer 2022 Contract, giving me first hand experience with large code bases, version control, and deploying through Jenkins.
 ### Projects
 These are some of the projects I worked on and the technologies  utilized.
 - **Employee Website**: Improved pages by adding print and merge functionality to a myriad of displayed data, utilized by many others at the company. (Javascript, SQLServer, DB2, Jenkins)
