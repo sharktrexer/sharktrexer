@@ -1,5 +1,5 @@
-# Hey, I'm Ibrahim Sydock! 🦈
-I'm a recent CS graduate expanding my programming knowledge while looking for entry level FTE developer jobs. 
+# Hey, I'm Abraham! 🦈
+I'm an up and coming junior software developer improving my programming knowledge while looking for Software Engineering, Web Development, Analyst, and Help Desk roles. 
 
 You can find my recent completed projects pinned on my profile. Feel free to check out my repositories to see what I am currently up to or what other open-source projects I am contributing towards.
 
@@ -21,14 +21,6 @@ Here's some fun facts:
 
 ## Education 🎓
 I graduated from Central Washington University with a Bachelor's of Science in Computer Science. My academia gave me a strong understanding of computer science fundamentals such as Object Oriented Principles, Algorithms, Data Structures, File Processing, Design Principles, and Software Engineering. I also minored in Math and Art, so I have a joy for equations and design on top of general comp sci.
-
-## Work Experience 💼
-I worked on private repositories at TreeTop Inc during my Summer 2022 Contract, giving me first hand experience with large code bases, version control, and deploying through Jenkins.
-### Projects
-These are some of the projects I worked on and the technologies  utilized.
-- **Employee Website**: Improved pages by adding print and merge functionality to a myriad of displayed data, utilized by many others at the company. (Javascript, SQLServer, DB2, Jenkins)
-- **Employee Website 2.0**: Used my skills to improve/build UI design, a sitewide error display system, and a dropdown search filter. (DITTO but with Typescript)
-- **Career Fair Giveaway App**: Successfully built a necessary web app with REST architecture. User info sent through JSON API call to external app which parsed data and picked a winner to receive an email. A solo project by me. (NodeJS, ExpressJS, Vue & Vuetify)
 
 <!--
 **sharktrexer/sharktrexer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
