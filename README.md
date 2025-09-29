@@ -1,5 +1,5 @@
 # Hey, I'm Abraham! 🦈
-I'm an up and coming junior software developer improving my programming knowledge while looking for Software Engineering, Web Development, Analyst, and Help Desk roles. 
+I'm an Early career software developer improving my programming knowledge while looking for Software Engineering, Web Development, Analyst, and Help Desk roles. 
 
 You can find my recent completed projects pinned on my profile. Feel free to check out my repositories to see what I am currently up to or what other open-source projects I am contributing towards.
 
